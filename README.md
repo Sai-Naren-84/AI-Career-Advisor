@@ -1,4 +1,4 @@
-# Resume Screening & Job Role Prediction System
+# AI Career Advisor
 
 ## Overview
 
@@ -28,7 +28,7 @@ The system:
 
 ## Project Structure
 
-Resume-Screener-ML/
+AI-Career-Advisor/
 
 * dataset.csv
 * train.py
